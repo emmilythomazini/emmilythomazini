@@ -2,7 +2,7 @@
 
 Meu nome é emmily thomazini
 
--Estou estando na Alura
+-Estou estando na [Alura](https://www.alura.com.br)
 
 -Estou me desenvolvendo na linguagam JavaScript
 
@@ -13,3 +13,6 @@ Meu nome é emmily thomazini
 00001073244945SP@al.educacao.sp.gov.br
 
 @emmilythomazini
+
+![](https://media1.tenor.com/m/TieudA-QQUwAAAAC/nice-cute.gif) 
+
